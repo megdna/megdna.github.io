@@ -14,5 +14,6 @@ The following directories and their contents are Copyright Megan Longcor.  You m
 
 - /_posts/
 - /images/
+- /pages/
 
 All other directories and files are [MIT Licensed](http://opensource.org/licenses/mit-license.html).  Feel free to use the HTML and CSS as you please.  If you do use them, be sure to credit as appropriate.
