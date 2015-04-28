@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
@@ -11,8 +11,12 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    
+    <link rel="stylesheet" href="/icons/css/academicons.css" />    
+    <link rel="stylesheet" href="/icons/css/font-awesome.min.css" />
+    <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now - Modified by Megan - http://megdna.github.io -->
   </head>
 
   <body>
@@ -27,8 +31,8 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/">Blog</a>
           </nav>
         </header>
       </div>
@@ -41,7 +45,7 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          {% include icons.html %}
         </footer>
       </div>
     </div>
