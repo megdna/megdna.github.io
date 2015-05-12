@@ -15,18 +15,17 @@ avatar: https://avatars0.githubusercontent.com/u/8283950
 # Flags below are optional
 #
 
-# Includes an icon in the footer for each username you enter
+# Includes a link in the footer for each username you enter
 footer-links:
-  email: 
+  email: megdna@gmail.com
   facebook: megdna
   github: megdna
-  google: +Megan8/about
+  google: +Megan8
   scholar: XyQXaocAAAAJ
   instagram: mg.zy
   linkedin: in/megdna
   twitter: megdna
   youtube: user/megdna
-  rss: yes
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
