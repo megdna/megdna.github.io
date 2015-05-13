@@ -45,7 +45,7 @@ url: http://megdna.github.io
 baseurl: ""
 
 # Include the repository with the source code for the website
-source: https://github.com/megdna/megdna.github.io
+repo: https://github.com/megdna/megdna.github.io
 
 #
 # !! You don't need to change any of the configuration flags below !!

@@ -47,7 +47,7 @@
       <div class="container">
         <footer class="footer">
           {% include icons.html %}
-          <p>&copy; {{ site.time | date: '%Y' }}{% if site.footer-links.email %} | <a href="mailto:{{ site.footer-links.email }}" target="_blank">Email</a>{% endif %} | <a href="{{ site.baseurl }}/feed.xml" target="_blank">RSS</a>{% if site.source %} | <a href="{{ site.source }}" target="_blank">Source</a>{% endif %}</p>
+          <p>&copy; {{ site.time | date: '%Y' }}{% if site.footer-links.email %} | <a href="mailto:{{ site.footer-links.email }}" target="_blank">Email</a>{% endif %} | <a href="{{ site.baseurl }}/feed.xml" target="_blank">RSS</a>{% if site.repo %} | <a href="{{ site.repo }}" target="_blank">Source</a>{% endif %}</p>
         </footer>
       </div>
     </div>
