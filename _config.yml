@@ -21,8 +21,7 @@ footer-links:
   facebook: megdna
   github: megdna
   google: +Megan8
-  scholar: XyQXaocAAAAJ
-  instagram: mg.zy
+  instagram: megdna
   linkedin: in/megdna
   twitter: megdna
   youtube: user/megdna
@@ -31,8 +30,9 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) and/or Clicky site ID to activate tracking
 google_analytics: UA-60935300-3
+clicky_analytics: 100873568
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
