@@ -27,12 +27,10 @@ footer-links:
   youtube: user/megdna
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
 disqus:
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) and/or Clicky site ID to activate tracking
-google_analytics: UA-60935300-3
-clicky_analytics: 100873568
+# Enter your Google Tag Manager container ID to activate tracking
+analytics: GTM-ML6GH4
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
