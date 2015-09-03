@@ -20,6 +20,9 @@
   </head>
 
   <body>
+          
+    {% include analytics.html %}
+          
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -32,8 +35,8 @@
 
           <nav>
             <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="http://resume.linkedinlabs.com/q7gxm170v" target="_blank">CV</a>
+            <a href="{{ site.baseurl }}/blog">Blog</a>
+            <a href="{{ site.baseurl }}/cv">CV</a>
           </nav>
         </header>
       </div>
@@ -52,6 +55,5 @@
       </div>
     </div>
 
-    {% include analytics.html %}
   </body>
 </html>
