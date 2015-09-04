@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /blog
+permalink: /blog/
 ---
 
 <i class="fa fa-medium fa-3x fa-pull-left fa-border"></i>

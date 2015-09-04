@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /cv
+permalink: /cv/
 ---
 
 In the spirit of open science, I intend to make public all of my research, presentations and publications (non-proprietary).  This is an ambitious endeavor given the span of my work over the years and will thus be the ongoing creation of a digital lab notebook.

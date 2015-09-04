@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 ![ML](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/156/2ea/0a13c86.jpg)
