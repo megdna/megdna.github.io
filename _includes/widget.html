@@ -1,4 +1,5 @@
 {% if site.widget %}
+<div>
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/{{ site.footer-links.twitter }}" data-widget-id="{{ site.widget }}" target="_blank">Tweets by @{{ site.footer-links.twitter }}</a>
 <script>window.twttr = (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0],
@@ -16,4 +17,5 @@
  
   return t;
 }(document, "script", "twitter-wjs"));</script>
+</div>
 {% endif %}
