@@ -1,6 +1,13 @@
 {% if site.widget %}
-<div>
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/{{ site.footer-links.twitter }}" data-widget-id="{{ site.widget }}" target="_blank">Tweets by @{{ site.footer-links.twitter }}</a>
+<div align="center">
+<a class="twitter-timeline"
+  data-dnt="true"
+  data-widget-id="{{ site.widget }}"
+  href="https://twitter.com/{{ site.footer-links.twitter }}"
+  width="600"
+  height="300">
+Tweets by @{{ site.footer-links.twitter }}
+</a>
 <script>window.twttr = (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0],
     t = window.twttr || {};
