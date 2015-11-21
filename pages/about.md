@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="right" border="5" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/156/2ea/0a13c86.jpg">
+<img align="right" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/156/2ea/0a13c86.jpg" style="margin:5px">
 
 As a **Systems Biologist**, I have a broad range of education and experience in the life sciences (including Microbiology, Genetic Engineering, Molecular Biology, Cell Biology, Developmental Biology and Biomedical Science) with an emphasis on measuring and predicting the complex interactions of biological components in dynamic living systems.  My academic training was at the University of California (undergraduate) and University of North Carolina (doctoral) with additional research conducted at the Howard Hughes Medical Institute and Amgen.
 
