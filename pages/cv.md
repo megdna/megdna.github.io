@@ -9,7 +9,7 @@ In the spirit of open science, I intend to make public all of my research, prese
 ### Version 1.0
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-linkedin"></i><strong><a href="http://resume.linkedinlabs.com/q7gxm170v" target="_blank">CV</a></strong><br>
+  <li><i class="fa-li fa fa-file-text-o"></i><strong><a href="http://resume.linkedinlabs.com/q7gxm170v" target="_blank">CV</a></strong><br>
     <em>View my "live" resume from LinkedIn Labs and download a PDF version</em></li>
   <li><i class="fa-li fa fa-university"></i><strong><a href="https://www.coursera.org/account/accomplishments/specialization/WKZKD3R8QT6P" target="_blank">Courses</a></strong><br>
     <em>Recent classes from Coursera (awards and certificates to be uploaded)</em></li>
