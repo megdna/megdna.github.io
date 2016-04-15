@@ -4,6 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-I am not sure if I will start blogging again, but you can see what I am sharing on my <a href="{{ site.baseurl }}/dna">Social Sites</a>.  Feel free to connect with me on any of these networks.
+I am not sure if I will start blogging again, but you can see what I am sharing and connect with me on my <a href="{{ site.baseurl }}/dna">Social Networks</a>.
 
 {% include widget.html %}
