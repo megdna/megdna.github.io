@@ -52,6 +52,7 @@ repo: https://github.com/megdna/megdna.github.io
 # !! You don't need to change any of the configuration flags below !!
 #
 
+encoding: UTF-8
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
