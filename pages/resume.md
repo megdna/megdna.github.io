@@ -1,7 +1,7 @@
 ---
-title: "Curriculum Vitae"
-permalink: /resume/
 layout: page
+title: Curriculum Vitae
+permalink: /resume/
 ---
 
 [Summary](#summary) | [Education](#education) | [Experience](#experience) | [Publications](#publications-presentations) | [Awards](#awards-certifications) | [Skills](#skills-competencies)
