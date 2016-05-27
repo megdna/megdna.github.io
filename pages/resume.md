@@ -109,7 +109,7 @@ An early review of RNAi that led to the adoption of this new technology at the U
 ### Strategic Marketing Plan for the Lab-On-a-Chip Applications Development (LOCAD) group
 #### NASA's Marshall Space Flight Center (March 2005)
 
-### Strategic Marketing Plan for SmartPlant® Piping and Instrumentation Diagrams (P&IDs)
+### Strategic Marketing Plan for SmartPlant Piping and Instrumentation Diagrams (P&IDs)
 #### Intergraph's Process, Power & Marine (April 2005)
 
 ### Phase III Business Plan for Universal Detector for Disease Diagnostics (UD3) and Array Technologies
