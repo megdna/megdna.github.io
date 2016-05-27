@@ -12,8 +12,8 @@ Unique professional with 20 years of business and research experience in cellula
 
 ## Education
 
-### Johns Hopkins University, Bloomberg School of Public Health (<a href="http://www.jhsph.edu" target="_blank">JHU</a>)
-#### Specialization, Data Science & Genomics (2014-2015)
+### Johns Hopkins University, Bloomberg School of Public Health (<a href="http://www.jhsph.edu" target="_blank">JHU</a>)  
+#### Specialization, Data Science & Genomics (2014-2015)  
 *Verified Certifications with Distinction*
 
 ### University of Alabama, Huntsville (<a href="http://www.uah.edu" target="_blank">UAH</a>)
