@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img align="right" src="{{ site.baseurl }}/images/Megan.JPG" style="margin:5px">
+<img align="right" src="{{ site.baseurl }}/images/Megan.JPG">
 
 As a **Systems Biologist**, I have a wide range of education and experience in the life sciences (including Microbiology, Genetic Engineering, Molecular Biology, Cell Biology, Developmental Biology and Biomedical Science) with an emphasis on measuring and predicting the complex interactions of biological components in dynamic living systems.  My academic training was at the University of California (undergraduate) and University of North Carolina (doctoral) with additional research conducted at the Howard Hughes Medical Institute and Amgen.
 

@@ -1,6 +1,6 @@
-﻿## About
+## About
 
-This is a modified Jekyll theme created for **[my personal website](http://megdna.github.io)**.
+This is a modified theme created for **[my personal website](http://megdna.github.io)**.
 
 ## Credits
 
@@ -10,10 +10,10 @@ This is a modified Jekyll theme created for **[my personal website](http://megdn
 
 ## License
 
-The following directories and their contents are Copyright Megan Longcor.  You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Megan.  You may not reuse anything therein without my permission:
 
 - /_posts/
 - /images/
 - /pages/
 
-All other directories and files are [MIT Licensed](http://opensource.org/licenses/mit-license.html).  Feel free to use the HTML and CSS as you please.  If you do use them, be sure to credit as appropriate.
+All other directories and files are [MIT Licensed](http://opensource.org/licenses/mit-license.html).  Feel free to use the code as you please.  If you do, be sure to credit as appropriate.
