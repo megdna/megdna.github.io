@@ -32,9 +32,6 @@ analytics: GTM-ML6GH4
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 disqus:
 
-# Enter your Twitter widget id to embed tweets
-widget: 662655137362628609
-
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://megdna.github.io
