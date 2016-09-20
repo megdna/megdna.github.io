@@ -35,7 +35,7 @@ Here is my online footprint, a collection of all my information in the cloud.  F
 **Project Sites**
 
 * <a href="http://bioshack.github.io" target="_blank">BioShack</a>
-* <a href="http://opndna.github.io" target="_blank">OpenDNA</a>
+* <a href="http://codons.github.io" target="_blank">Codons</a>
 * <a href="http://retrogenes.github.io" target="_blank">Retrogenes</a>
 * <a href="http://robozome.github.io" target="_blank">Robozome</a>
 * <a href="http://github.com/zdna" target="_blank">ZDNA</a>
