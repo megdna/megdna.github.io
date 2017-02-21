@@ -4,7 +4,7 @@ title: Digital DNA
 permalink: /dna/
 ---
 
-Here is my online footprint, a collection of all my information in the cloud.  Feel free to browse my "genome" or join any of my networks below.
+This is my online footprint, a collection of all my information in the cloud.  Feel free to browse my "genome" or join any of the networks below.
 
 **Site Map**
 
@@ -13,7 +13,6 @@ Here is my online footprint, a collection of all my information in the cloud.  F
 * <a href="http://megdna.github.io/about">Bio</a>
 * <a href="http://megdna.github.io/cv">CV</a>
 * <a href="http://megdna.github.io/dna">DNA</a>
-
 
 **Social Media**
 
@@ -26,19 +25,12 @@ Here is my online footprint, a collection of all my information in the cloud.  F
 
 **Professional Pages**
 
+* <a href="http://bioshack.github.io" target="_blank">BioShack</a>
 * <a href="http://coursera.org/account/accomplishments/specialization/WKZKD3R8QT6P" target="_blank">Coursera</a>
 * <a href="http://github.com/megdna" target="_blank">GitHub</a>
 * <a href="http://orcid.org/0000-0001-7737-5634" target="_blank">ORCID</a>
 * <a href="http://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" target="_blank">Resume</a>
 * <a href="http://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Scholar</a>
-
-**Project Sites**
-
-* <a href="http://bioshack.github.io" target="_blank">BioShack</a>
-* <a href="http://codons.github.io" target="_blank">Codons</a>
-* <a href="http://retrogenes.github.io" target="_blank">Retrogenes</a>
-* <a href="http://robozome.github.io" target="_blank">Robozome</a>
-* <a href="http://github.com/zdna" target="_blank">ZDNA</a>
 
 **Other Links**
 
