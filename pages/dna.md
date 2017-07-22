@@ -25,8 +25,8 @@ This is my online footprint, a collection of all my information in the cloud.  F
 
 **Professional Pages**
 
-* <a href="http://bioshack.github.io" target="_blank">BioShack</a>
 * <a href="http://coursera.org/account/accomplishments/specialization/WKZKD3R8QT6P" target="_blank">Coursera</a>
+* <a href="http://d8aorg.github.io" target="_blank">D8A</a>
 * <a href="http://github.com/megdna" target="_blank">GitHub</a>
 * <a href="http://orcid.org/0000-0001-7737-5634" target="_blank">ORCID</a>
 * <a href="http://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" target="_blank">Resume</a>
@@ -36,6 +36,5 @@ This is my online footprint, a collection of all my information in the cloud.  F
 
 * <a href="http://google.com/books?uid=112842747224626688959" target="_blank">Books</a>
 * <a href="http://drive.google.com/folderview?id=0B0yX9-65yPSFb1o3Zk1ZT2I3d2M" target="_blank">Drive</a>
-* <a href="http://medium.com/@megdna" target="_blank">Medium</a>
 * <a href="http://meetup.com/members/130984402" target="_blank">Meetup</a>
 * <a href="http://play.spotify.com/user/meg.dna" target="_blank">Spotify</a>
