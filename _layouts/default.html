@@ -1,59 +1,12 @@
-﻿<!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
 
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    
-    <link rel="stylesheet" href="/icons/academicons/academicons.css" />    
-    <link rel="stylesheet" href="/icons/font-awesome/css/font-awesome.min.css" />
-    <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now - Modified by Megan - http://megdna.github.io -->
-  </head>
-
-  <body>
-          
-    {% include analytics.html %}
-          
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/about">BIO</a>
-            <a href="{{ site.baseurl }}/cv">CV</a>
-            <a href="{{ site.baseurl }}/dna">DNA</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include icons.html %}
-          <p>&copy; {{ site.time | date: '%Y' }}{% if site.footer-links.email %} | <a href="mailto:{{ site.footer-links.email }}" onclick="this.href=this.href.replace(/ at /,'&#64;')" target="_blank">Contact</a>{% endif %} | <a href="{{ site.baseurl }}/feed.xml" target="_blank">RSS</a>{% if site.repo %} | <a href="{{ site.repo }}" target="_blank">Source</a>{% endif %}</p>
-        </footer>
-      </div>
-    </div>
-
-  </body>
+  <div class="wrapper">
+    {{ content }}
+  </div>
+  
+  {% include analytics.html %}
+</body>
 </html>

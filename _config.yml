@@ -1,73 +1,36 @@
-#
-# This file contains configuration flags to customize your site
-#
+# Site Settings
+title: Megan Longcor - Data Scientist & Systems Biologist
+description: Pioneering the Field of Molecular Machine Learning
+permalink: ':title'
+baseurl: "/flexible"
+url: ""
 
-# Name of your site (displayed in the header)
-name: Megan Longcor
-
-# Short bio or description (displayed in the header)
-description: Data Scientist & Systems Biologist
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/8283950
-
-#
-# Flags below are optional
-#
-
-# Includes a link in the footer for each username you enter
-footer-links:
-  email: megdna at gmail.com
-  facebook: megdna
-  github: megdna
-  google: +Megan8
-  instagram: megdna
-  linkedin: in/megdna
-  twitter: megdna
-  youtube: user/megdna
-
-# Enter your Google Tag Manager container ID to activate tracking
 analytics: GTM-ML6GH4
+disqus: 
+site-twitter: megdna
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-disqus:
+# Author Settings
+author: Megan Longcor
+author-img: https://avatars.githubusercontent.com/u/8283950
+about-author: I am a Data Scientist and Systems Biologist pioneering "Molecular Machine Learning"
+email: megdna at gmail.com
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: http://megdna.github.io
+facebook: megdna
+github: megdna
+google: +Megan8
+instagram: megdna
+linkedin: megdna
+twitter: megdna
+youtube: megdna
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-# Include the repository with the source code for the website
-repo: https://github.com/megdna/megdna.github.io
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-encoding: UTF-8
+# Build Settings
 markdown: kramdown
-highlighter: rouge
-permalink: /:title/
+plugins_dir:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
-# The release of Jekyll Now that you're using
-version: v1.1.0
+paginate: 8
+paginate_path: "/page/:num"
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-
-# Exclude these files from your production _site
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
