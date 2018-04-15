@@ -5,7 +5,7 @@ This is a modified theme created for **[my personal website](http://megdna.githu
 ## Credits
 
 - [Flexible-Jekyll](https://github.com/artemsheludko/flexible-jekyll)
-- [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
+- [Fork Awesome](https://github.com/ForkAwesome/Fork-Awesome)
 - [Academicons](https://jpswalsh.github.io/academicons)
 
 ## License
