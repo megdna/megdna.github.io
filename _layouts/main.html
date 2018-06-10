@@ -28,9 +28,6 @@ layout: default
         {% if site.instagram %}
           <li><a href="https://www.instagram.com/{{site.instagram}}" target="_blank"><i class="fa fa-instagram"></i></a></li>
         {% endif %}
-        {% if site.keybase %}
-          <li><a href="https://keybase.io/{{site.keybase}}" target="_blank"><i class="fa fa-keybase"></i></a></li>
-        {% endif %}
         {% if site.linkedin %}
           <li><a href="https://www.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         {% endif %}
@@ -41,7 +38,7 @@ layout: default
           <li><a href="https://www.youtube.com/user/{{ site.youtube }}" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
         {% endif %}
         {% if site.email %}
-          <li><a href="mailto:{{site.email}}" onclick="this.href=this.href.replace(/ at /,'&#64;')" target="_blank"><i class="fa fa-envelope-o"></i></a></li>
+          <li><a href="mailto:{{site.email}}" target="_blank"><i class="fa fa-envelope-o"></i></a></li>
         {% endif %}
       </ul>
     </section> <!-- End Section Contact -->
