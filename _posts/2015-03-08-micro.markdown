@@ -9,4 +9,4 @@ tags: [Bio]
 
 See what I am reading and sharing on social media.
 
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/megdna/lists/all-tweets?ref_src=twsrc%5Etfw" target="_blank">Tweets by @bioshack and @megdna</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/megdna" target="_blank">Tweets by @megdna</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
