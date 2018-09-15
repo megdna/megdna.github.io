@@ -15,7 +15,7 @@ In the spirit of open science, I intend to make public all of my research, prese
   <li><i class="fa-li fa fa-file-text-o"></i><strong><a href="http://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" target="_blank">Resume</a></strong><br>
     <em>View my current CV and download a PDF version (under construction)</em></li>
   <li><i class="fa-li fa fa-university"></i><strong><a href="https://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" target="_blank">Courses</a></strong><br>
-    <em>Complete list of coursework (classes, <a href="https://www.coursera.org/account/accomplishments/specialization/WKZKD3R8QT6P" target="_blank">certificates</a> and degrees)</em></li>
+    <em>Complete list of coursework (awards and <a href="https://www.coursera.org/account/accomplishments/specialization/WKZKD3R8QT6P" target="_blank">certificates</a> to be uploaded)</em></li>
   <li><i class="fa-li ai ai-orcid"></i><strong><a href="http://orcid.org/0000-0001-7737-5634" target="_blank">Works</a></strong><br>
     <em>Sources on ORCID (under development, papers and posters to be added)</em></li>
   <li><i class="fa-li ai ai-google-scholar"></i><strong><a href="https://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Citations</a></strong><br>
