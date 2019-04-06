@@ -21,7 +21,6 @@ This is my online footprint, a collection of all of my information in the cloud.
 **Social Media**
 
 * <a href="http://facebook.com/megdna" target="_blank">Facebook</a>
-* <a href="http://google.com/+Megan8" target="_blank">Google+</a>
 * <a href="http://instagram.com/megdna" target="_blank">Instagram</a>
 * <a href="http://linkedin.com/in/megdna" target="_blank">LinkedIn</a>
 * <a href="http://twitter.com/megdna" target="_blank">Twitter</a>
