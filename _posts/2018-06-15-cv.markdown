@@ -15,9 +15,9 @@ In the spirit of open science, I intend to make public all of my research, prese
   <li><i class="fa-li fa fa-file-text-o"></i><strong><a href="http://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" target="_blank">Resume</a></strong><br>
     <em>View my current CV and download a PDF version (under construction)</em></li>
   <li><i class="fa-li fa fa-university"></i><strong><a href="https://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" target="_blank">Courses</a></strong><br>
-    <em>Complete list of coursework (awards and <a href="https://www.coursera.org/account/accomplishments/specialization/WKZKD3R8QT6P" target="_blank">certificates</a> to be uploaded)</em></li>
-  <li><i class="fa-li ai ai-orcid"></i><strong><a href="http://orcid.org/0000-0001-7737-5634" target="_blank">Works</a></strong><br>
-    <em>Sources on ORCID (under development, papers and posters to be added)</em></li>
-  <li><i class="fa-li ai ai-google-scholar"></i><strong><a href="https://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Citations</a></strong><br>
-    <em>Journal articles on Google Scholar (<a href="https://books.google.com/books?uid=112842747224626688959" target="_blank">books</a> and websites to be included)</em></li>
+    <em>Complete list of coursework (awards and certificates to be uploaded)</em></li>
+  <li><i class="fa-li fa fa-github"></i><strong><a href="http://github.com/megdna" target="_blank">Projects</a></strong><br>
+    <em>Repositories on GitHub (under development, new repos to be added)</em></li>
+  <li><i class="fa-li ai ai-google-scholar"></i><strong><a href="https://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Publications</a></strong><br>
+    <em>Journal articles on Google Scholar (<a href="https://books.google.com/books?uid=112842747224626688959" target="_blank">books</a> and posters to be included)</em></li>
 </ul>
