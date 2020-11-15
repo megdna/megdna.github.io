@@ -30,7 +30,7 @@ This is my online footprint, a collection of all of my information in the cloud.
 
 * <a href="http://bio.d8a.org" target="_blank">BioShack</a>
 * <a href="http://github.com/megdna" target="_blank">GitHub</a>
-* <a href="https://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" target="_blank">Courses</a>
+* <a href="http://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" target="_blank">Courses</a>
 * <a href="http://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" target="_blank">Resume</a>
 * <a href="http://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Scholar</a>
 
@@ -38,6 +38,6 @@ This is my online footprint, a collection of all of my information in the cloud.
 
 * <a href="http://google.com/books?uid=112842747224626688959" target="_blank">Books</a>
 * <a href="http://drive.google.com/folderview?id=0B0yX9-65yPSFb1o3Zk1ZT2I3d2M" target="_blank">Docs</a>
-* <a href="https://music.youtube.com/channel/UCLZi3C4ig4z9eqw5t5jsaHw" target="_blank">Music</a>
-* <a href="https://get.google.com/albumarchive/114397304149176406752" target="_blank">Photos</a>
+* <a href="http://music.youtube.com/channel/UCLZi3C4ig4z9eqw5t5jsaHw" target="_blank">Music</a>
+* <a href="http://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Photos</a>
 * <a href="http://paypal.me/megdna" target="_blank">PayPal</a>
