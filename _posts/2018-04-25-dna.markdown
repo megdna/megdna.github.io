@@ -37,7 +37,7 @@ This is my online footprint, a collection of all of my information in the cloud.
 **Other Links**
 
 * <a href="http://google.com/books?uid=112842747224626688959" target="_blank">Books</a>
-* <a href="http://drive.google.com/folderview?id=0B0yX9-65yPSFb1o3Zk1ZT2I3d2M" target="_blank">Docs</a>
+* <a href="https://drive.google.com/drive/folders/0B0yX9-65yPSFb1o3Zk1ZT2I3d2M?resourcekey=0-uXCWyuR2Y28Us1uGJivMKA" target="_blank">Docs</a>
 * <a href="http://music.youtube.com/channel/UCLZi3C4ig4z9eqw5t5jsaHw" target="_blank">Music</a>
 * <a href="http://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Photos</a>
 * <a href="http://paypal.me/megdna" target="_blank">PayPal</a>
