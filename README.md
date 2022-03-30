@@ -1,12 +1,12 @@
 ## About
 
-This is a modified theme created for **[my personal website](http://megdna.github.io)**.
+This is a modified theme created for **[my personal website](https://megdna.github.io)**.
 
 ## Credits
 
 - [Flexible-Jekyll](https://github.com/artemsheludko/flexible-jekyll)
 - [Fork Awesome](https://github.com/ForkAwesome/Fork-Awesome)
-- [Academicons](https://jpswalsh.github.io/academicons)
+- [Academicons](https://github.com/jpswalsh/academicons)
 
 ## License
 
@@ -15,4 +15,4 @@ The following directories and their contents are *Copyright Megan*.  You may not
 - /_posts/
 - /images/
 
-All other files are [MIT Licensed](http://opensource.org/licenses/mit-license.html).  Feel free to use the code as you please.  If you do, be sure to credit as appropriate.
+All other files are [MIT Licensed](https://opensource.org/licenses/mit-license.html).  Feel free to use the code as you please.  If you do, be sure to credit as appropriate.
