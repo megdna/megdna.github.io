@@ -20,24 +20,25 @@ This is my online footprint, a collection of all of my information in the cloud.
 
 **Social Media**
 
-* <a href="http://facebook.com/megdna" target="_blank">Facebook</a>
-* <a href="http://instagram.com/megdna" target="_blank">Instagram</a>
-* <a href="http://linkedin.com/in/megdna" target="_blank">LinkedIn</a>
-* <a href="http://twitter.com/megdna" target="_blank">Twitter</a>
-* <a href="http://youtube.com/megdna" target="_blank">YouTube</a>
+* <a href="https://www.facebook.com/megdna" target="_blank">Facebook</a>
+* <a href="https://www.instagram.com/megdna" target="_blank">Instagram</a>
+* <a href="https://www.linkedin.com/in/megdna" target="_blank">LinkedIn</a>
+* <a href="https://scholar.social/@bio" target="_blank">Mastodon</a> 
+* <a href="https://twitter.com/megdna" target="_blank">Twitter</a>
+* <a href="https://www.youtube.com/user/megdna" target="_blank">YouTube</a>
 
 **Professional Pages**
 
-* <a href="http://bio.d8a.org" target="_blank">BioShack</a>
-* <a href="http://github.com/megdna" target="_blank">GitHub</a>
-* <a href="http://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" target="_blank">Courses</a>
-* <a href="http://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" target="_blank">Resume</a>
-* <a href="http://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Scholar</a>
+* <a href="https://d8a.org" target="_blank">D8A</a>
+* <a href="https://github.com/megdna" target="_blank">GitHub</a>
+* <a href="https://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" target="_blank">Courses</a>
+* <a href="https://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" target="_blank">Resume</a>
+* <a href="https://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Scholar</a>
 
 **Other Links**
 
-* <a href="http://google.com/books?uid=112842747224626688959" target="_blank">Books</a>
+* <a href="https://books.google.com/books?uid=112842747224626688959" target="_blank">Books</a>
 * <a href="https://drive.google.com/drive/folders/0B0yX9-65yPSFb1o3Zk1ZT2I3d2M?resourcekey=0-uXCWyuR2Y28Us1uGJivMKA" target="_blank">Docs</a>
-* <a href="http://music.youtube.com/channel/UCLZi3C4ig4z9eqw5t5jsaHw" target="_blank">Music</a>
-* <a href="http://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Photos</a>
-* <a href="http://paypal.me/megdna" target="_blank">PayPal</a>
+* <a href="https://music.youtube.com/channel/UCLZi3C4ig4z9eqw5t5jsaHw" target="_blank">Music</a>
+* <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Photos</a>
+* <a href="https://paypal.me/megdna" target="_blank">PayPal</a>
