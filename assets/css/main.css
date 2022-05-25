@@ -1253,12 +1253,12 @@ a.newer-posts:hover {
   border-bottom: 1px solid #a0a0a0;
 }
 
-.page-footer .page-share {
+.page-footer .page-credit {
   margin-bottom: 10px;
   text-align: left;
 }
 
-.page-footer .page-share a {
+.page-footer .page-credit a {
   display: inline-block;
   text-decoration: none;
   background-color: #fafafa;
@@ -1272,11 +1272,11 @@ a.newer-posts:hover {
   transition: background-color .3s;
 }
 
-.page-footer .page-share a:first-child {
+.page-footer .page-credit a:first-child {
   margin-left: 0;
 }
 
-.page-footer .page-share a:hover {
+.page-footer .page-credit a:hover {
   background-color: #ecf0f1;
 }
 
