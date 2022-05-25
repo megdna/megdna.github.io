@@ -11,19 +11,18 @@ I stopped using most commercial social media sites. You can view my latest conte
 
 ### Posts on <a href="https://scholar.social/@bio" target="_blank">Mastodon</a>
 
-<iframe src="https://scholar.social/@bio/108330371691320153/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="750" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://scholar.social/embed.js" async="async"></script>
+<iframe src="https://scholar.social/@bio/108330371691320153/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="780" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://scholar.social/embed.js" async="async"></script><br>
 
 ### Photos on <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Google</a>
 
-<a href="https://photos.google.com/share/AF1QipO9kVj7PmZKUy1OKB09ZOEzsdmH4Y5MV4h-9qyOIKktye57PJZc7iGMkR6V8k3PuA/photo/AF1QipPDvTveV-OectaZMLLm455nJfr3Ne5H2C5g0o9M?key=Q0l3akd6R1dUNkszMmV5T2s4ZVdiRERLNkdoUUx3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLWlFv_pb74-iYB4-WM9oVu_nXW19dthvrDnlQKHMDmEbzGcEdd6EROR4XZK065JlP_iCkJmlYU57Li6e_Z_RvG53ku9RkWzwZXM439BBs8c-gj7n_zB1_tUQGhv5lOncx20Ro26l5mvhAwpXsAJvX1oKw=w1820-h1364-no" width="100%"></a>
+<a href="https://photos.google.com/share/AF1QipO9kVj7PmZKUy1OKB09ZOEzsdmH4Y5MV4h-9qyOIKktye57PJZc7iGMkR6V8k3PuA/photo/AF1QipPDvTveV-OectaZMLLm455nJfr3Ne5H2C5g0o9M?key=Q0l3akd6R1dUNkszMmV5T2s4ZVdiRERLNkdoUUx3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLWlFv_pb74-iYB4-WM9oVu_nXW19dthvrDnlQKHMDmEbzGcEdd6EROR4XZK065JlP_iCkJmlYU57Li6e_Z_RvG53ku9RkWzwZXM439BBs8c-gj7n_zB1_tUQGhv5lOncx20Ro26l5mvhAwpXsAJvX1oKw=w1820-h1364-no" width="100%"></a><br>
 
 ### Videos on <a href="https://www.youtube.com/user/megdna" target="_blank">YouTube</a>
 
 **<a href="https://www.youtube.com/playlist?list=PLrtPqIlLHMFaXEo4u0gqIV4FpAs5a1UUu" target="_blank">Art, Music & Culture</a>**
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLrtPqIlLHMFaXEo4u0gqIV4FpAs5a1UUu" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLrtPqIlLHMFaXEo4u0gqIV4FpAs5a1UUu" frameborder="0" allowfullscreen></iframe></div><br>
 
-<br>
 **<a href="https://www.youtube.com/playlist?list=PLrtPqIlLHMFagSR80_iXz1XQ_ocJCjtqE" target="_blank">Science, Technology & Society</a>**
   
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLrtPqIlLHMFagSR80_iXz1XQ_ocJCjtqE" frameborder="0" allowfullscreen></iframe></div>
