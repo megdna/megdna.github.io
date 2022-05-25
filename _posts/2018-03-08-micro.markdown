@@ -11,7 +11,7 @@ I stopped using most commercial social media sites. You can view my latest conte
 
 ### Posts on <a href="https://scholar.social/@bio" target="_blank">Mastodon</a>
 
-<iframe src="https://scholar.social/@bio/108330371691320153/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="600" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://scholar.social/embed.js" async="async"></script>
+<iframe src="https://scholar.social/@bio/108330371691320153/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="700" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://scholar.social/embed.js" async="async"></script>
 
 ### Photos on <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Google</a>
 
