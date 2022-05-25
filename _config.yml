@@ -8,7 +8,6 @@ url: http://megdna.github.io
 analytics: 11088160
 security: 977098cc
 disqus: 
-site-twitter: megdna
 
 # Author Settings
 author: Megan Longcor
@@ -19,8 +18,9 @@ email: meg@d8a.org
 facebook: 
 github: megdna
 instagram: 
-linkedin: megdna
-twitter: megdna
+linkedin: in/megdna
+mastodon: scholar.social/@bio
+twitter: 
 youtube: megdna
 
 # Build Settings
