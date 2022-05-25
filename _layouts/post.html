@@ -17,10 +17,9 @@ layout: main
       {{page.content | markdownify}}
       <div class="page-footer">
         <div class="page-share">
-          {% if page.credit %}
+          {% for credit in page.credit %}
           <a href="{{ page.credit }}" title="Cover Photo" rel="nofollow" target="_blank"><i class="fa fa-camera"></i>&nbsp;&nbsp;Credit</a>
-          {% endif %}
-          <a href="https://twitter.com/compose/tweet" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;Tweet</a>
+          {% endfor %}
         </div>
         <div class="page-tag">
           {% for tag in page.tags %}
