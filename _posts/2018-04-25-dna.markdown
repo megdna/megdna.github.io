@@ -11,7 +11,6 @@ This is my online footprint, a collection of all of my information in the cloud.
 
 **Site Map**
 
-* <a href="{{ site.baseurl }}/">Home</a>
 * <a href="{{ site.baseurl }}/about">About</a>
 * <a href="{{ site.baseurl }}/cv">CV</a>
 * <a href="{{ site.baseurl }}/dna">DNA</a>
@@ -23,7 +22,6 @@ This is my online footprint, a collection of all of my information in the cloud.
 * <a href="https://www.facebook.com/megdna" target="_blank">Facebook</a>
 * <a href="https://www.instagram.com/megdna" target="_blank">Instagram</a>
 * <a href="https://www.linkedin.com/in/megdna" target="_blank">LinkedIn</a>
-* <a href="https://scholar.social/@bio" target="_blank">Mastodon</a> 
 * <a href="https://twitter.com/megdna" target="_blank">Twitter</a>
 * <a href="https://www.youtube.com/user/megdna" target="_blank">YouTube</a>
 
