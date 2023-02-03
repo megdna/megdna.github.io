@@ -1,4 +1,7 @@
 {% if site.analytics %}
 <script data-goatcounter="https://{{ site.analytics }}/count"
         async src="//gc.zgo.at/count.js"></script>
+<noscript>
+    <img src="https://{{ site.analytics }}/count?p=/test-noscript">
+</noscript>
 {% endif %}
