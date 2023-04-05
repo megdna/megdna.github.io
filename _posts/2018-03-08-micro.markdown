@@ -9,6 +9,10 @@ tags: [Bio]
 
 I stopped using most commercial social media sites. You can view my latest content below.
 
+### Posts on <a href="https://fediscience.org/@meg" target="_blank">Mastodon</a>
+
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="400" height="800" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Ffediscience.org%2Fusers%2Fmeg&theme=light&size=100&header=true&replies=false&boosts=false"></iframe>
+
 ### Photos on <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Google</a>
 
 <a href="https://photos.google.com/share/AF1QipO9kVj7PmZKUy1OKB09ZOEzsdmH4Y5MV4h-9qyOIKktye57PJZc7iGMkR6V8k3PuA/photo/AF1QipPDvTveV-OectaZMLLm455nJfr3Ne5H2C5g0o9M?key=Q0l3akd6R1dUNkszMmV5T2s4ZVdiRERLNkdoUUx3" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLWlFv_pb74-iYB4-WM9oVu_nXW19dthvrDnlQKHMDmEbzGcEdd6EROR4XZK065JlP_iCkJmlYU57Li6e_Z_RvG53ku9RkWzwZXM439BBs8c-gj7n_zB1_tUQGhv5lOncx20Ro26l5mvhAwpXsAJvX1oKw=w1820-h1364-no" width="100%"></a>
