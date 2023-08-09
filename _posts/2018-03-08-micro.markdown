@@ -11,7 +11,7 @@ I stopped using most commercial social media sites. You can view my latest conte
 
 ### Posts on <a href="https://fediscience.org/@meg" target="_blank">Mastodon</a>
 
-<iframe src="https://fediscience.org/@meg/110741725412610832/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://fediscience.org/embed.js" async="async"></script>
+<iframe src="https://fediscience.org/@meg/110662502406923023/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://fediscience.org/embed.js" async="async"></script>
 
 ### Photos on <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Google</a>
 
