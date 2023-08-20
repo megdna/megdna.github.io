@@ -19,31 +19,24 @@ This is my online footprint, a collection of all of my information in the cloud.
 
 **Social Media**
 
-* <a href="https://www.facebook.com/megdna" target="_blank">Facebook</a>
-* <a href="https://www.instagram.com/megdna" target="_blank">Instagram</a>
+* <a href="https://www.facebook.com/megdna" target="_blank"><s>Facebook</s></a>
+* <a href="https://www.instagram.com/megdna" target="_blank"><s>Instagram</s></a>
 * <a href="https://www.linkedin.com/in/megdna" target="_blank">LinkedIn</a>
-* <a href="https://twitter.com/megdna" target="_blank">Twitter</a>
+* <a href="https://twitter.com/megdna" target="_blank"><s>Twitter</s></a>
 * <a href="https://www.youtube.com/user/megdna" target="_blank">YouTube</a>
 
-**Professional Pages**
+**Other Profiles**
 
-* <a href="https://d8a.org" target="_blank">D8A</a>
+* <a href="https://bandcamp.com/megdna" target="_blank">Bandcamp</a>
+* <a href="https://d8a.org/people/megan/" target="_blank">D8A</a>
 * <a href="https://github.com/megdna" target="_blank">GitHub</a>
-* <a href="https://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" target="_blank">Courses</a>
-* <a href="https://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" target="_blank">Resume</a>
-* <a href="https://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Scholar</a>
+* <a href="https://fediscience.org/@meg" target="_blank">Mastodon</a>
+* <a href="https://paypal.me/megdna" target="_blank">PayPal</a>
 
-**Other Links**
+**Google Pages**
 
 * <a href="https://books.google.com/books?uid=112842747224626688959" target="_blank">Books</a>
 * <a href="https://drive.google.com/drive/folders/0B0yX9-65yPSFb1o3Zk1ZT2I3d2M?resourcekey=0-uXCWyuR2Y28Us1uGJivMKA" target="_blank">Docs</a>
 * <a href="https://music.youtube.com/channel/UCLZi3C4ig4z9eqw5t5jsaHw" target="_blank">Music</a>
 * <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Photos</a>
-* <a href="https://paypal.me/megdna" target="_blank">PayPal</a>
-
-**New Profiles**
-
-* <a href="https://bandcamp.com/megdna" target="_blank">Bandcamp</a> (Music)
-* <a href="https://codeberg.org/meg" target="_blank">Codeberg</a> (Gitea)
-* <a href="https://cloud.disroot.org/s/omCC72TMc5YXage" target="_blank">Disroot</a> (Nextcloud)
-* <a href="https://fediscience.org/@meg" target="_blank">Fediscience</a> (Mastodon)
+* <a href="https://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Scholar</a>
