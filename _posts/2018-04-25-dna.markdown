@@ -28,7 +28,7 @@ This is my online footprint, a collection of all of my information in the cloud.
 **Other Profiles**
 
 * <a href="https://bandcamp.com/megdna" target="_blank">Bandcamp</a>
-* <a href="https://d8a.org/people/megan/" target="_blank">D8A</a>
+* <a href="https://bioshack.github.io" target="_blank">BioShack</a>
 * <a href="https://github.com/megdna" target="_blank">GitHub</a>
 * <a href="https://fediscience.org/@meg" target="_blank">Mastodon</a>
 * <a href="https://paypal.me/megdna" target="_blank">PayPal</a>
