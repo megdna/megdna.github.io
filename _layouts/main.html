@@ -16,6 +16,9 @@ layout: default
     <section class="contact">
       <h3 class="contact-title">Contact Me</h3>
       <ul>
+        {% if site.email %}
+          <li><a href="mailto:{{site.email}}" target="_blank"><i class="fa fa-envelope-o"></i></a></li>
+        {% endif %}
         {% if site.bandcamp %}
           <li><a href="https://{{ site.bandcamp }}" target="_blank"><i class="fa fa-bandcamp" aria-hidden="true"></i></a></li>
         {% endif %}
@@ -42,9 +45,6 @@ layout: default
         {% endif %}
         {% if site.youtube %}
           <li><a href="https://www.youtube.com/{{ site.youtube }}" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-        {% endif %}
-        {% if site.email %}
-          <li><a href="mailto:{{site.email}}" target="_blank"><i class="fa fa-envelope-o"></i></a></li>
         {% endif %}
       </ul>
     </section> <!-- End Section Contact -->
