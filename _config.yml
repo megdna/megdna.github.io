@@ -5,9 +5,6 @@ permalink: ':title'
 baseurl: ""
 url: http://megdna.github.io
 
-analytics: meg.goatcounter.com
-disqus: 
-
 # Author Settings
 author: Megan Longcor
 author-img: https://avatars.githubusercontent.com/u/8283950
