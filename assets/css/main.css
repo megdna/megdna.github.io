@@ -1296,6 +1296,7 @@ a.newer-posts:hover {
 
 .previous {
   float: right;
+  margin-bottom: 5px;
 }
 
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
