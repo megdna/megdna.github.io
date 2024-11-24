@@ -19,24 +19,24 @@ This is my online footprint, a collection of all of my information in the cloud.
 
 **Social Media**
 
-* <a href="https://www.facebook.com/megdna" target="_blank"><s>Facebook</s></a>
-* <a href="https://www.instagram.com/megdna" target="_blank"><s>Instagram</s></a>
-* <a href="https://www.linkedin.com/in/megdna" target="_blank">LinkedIn</a>
-* <a href="https://twitter.com/megdna" target="_blank"><s>Twitter</s></a>
-* <a href="https://www.youtube.com/user/megdna" target="_blank">YouTube</a>
+* <a href="https://www.facebook.com/megdna" data-umami-event="facebook" target="_blank"><s>Facebook</s></a>
+* <a href="https://www.instagram.com/megdna" data-umami-event="instagram" target="_blank"><s>Instagram</s></a>
+* <a href="https://www.linkedin.com/in/megdna" data-umami-event="linkedin" target="_blank">LinkedIn</a>
+* <a href="https://twitter.com/megdna" data-umami-event="twitter" target="_blank"><s>Twitter</s></a>
+* <a href="https://www.youtube.com/user/megdna" data-umami-event="youtube2" target="_blank">YouTube</a>
 
 **Other Profiles**
 
-* <a href="https://bandcamp.com/megdna" target="_blank">Bandcamp</a>
-* <a href="https://bio.d8a.org" target="_blank">BioShack</a>
-* <a href="https://github.com/megdna" target="_blank">GitHub</a>
-* <a href="https://fediscience.org/@meg" target="_blank">Mastodon</a>
-* <a href="https://paypal.me/megdna" target="_blank">PayPal</a>
+* <a href="https://bandcamp.com/megdna" data-umami-event="bandcamp" target="_blank">Bandcamp</a>
+* <a href="https://bio.d8a.org" data-umami-event="bioshack2" target="_blank">BioShack</a>
+* <a href="https://github.com/megdna" data-umami-event="github2" target="_blank">GitHub</a>
+* <a href="https://fediscience.org/@meg" data-umami-event="mastodon2" target="_blank">Mastodon</a>
+* <a href="https://paypal.me/megdna" data-umami-event="paypal" target="_blank">PayPal</a>
 
 **Google Pages**
 
-* <a href="https://books.google.com/books?uid=112842747224626688959" target="_blank">Books</a>
-* <a href="https://drive.google.com/drive/folders/0B0yX9-65yPSFb1o3Zk1ZT2I3d2M?resourcekey=0-uXCWyuR2Y28Us1uGJivMKA" target="_blank">Docs</a>
-* <a href="https://music.youtube.com/channel/UCLZi3C4ig4z9eqw5t5jsaHw" target="_blank">Music</a>
-* <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" target="_blank">Photos</a>
-* <a href="https://scholar.google.com/citations?user=XyQXaocAAAAJ" target="_blank">Scholar</a>
+* <a href="https://books.google.com/books?uid=112842747224626688959" data-umami-event="books2" target="_blank">Books</a>
+* <a href="https://drive.google.com/drive/folders/0B0yX9-65yPSFb1o3Zk1ZT2I3d2M?resourcekey=0-uXCWyuR2Y28Us1uGJivMKA" data-umami-event="docs" target="_blank">Docs</a>
+* <a href="https://music.youtube.com/channel/UCLZi3C4ig4z9eqw5t5jsaHw" data-umami-event="music" target="_blank">Music</a>
+* <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" data-umami-event="photos2" target="_blank">Photos</a>
+* <a href="https://scholar.google.com/citations?user=XyQXaocAAAAJ" data-umami-event="scholar" target="_blank">Scholar</a>
