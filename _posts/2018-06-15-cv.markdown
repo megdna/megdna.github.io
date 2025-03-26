@@ -12,12 +12,12 @@ In the spirit of open science, I intend to make public all of my research, prese
 ### Version 1.0
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-file-text-o"></i><strong><a href="http://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" data-umami-event="resume" target="_blank">Resume</a></strong><br>
+  <li><i class="fa-li fa fa-file-text-o"></i><strong><a href="http://docs.google.com/document/d/1O69ugznjR-NY9WaTPyifziZ1x4IilDXzXPV-xYB6xn4" data-goatcounter-click="resume" data-umami-event="resume" target="_blank">Resume</a></strong><br>
     <em>View my current CV and download a PDF version (under construction)</em></li>
-  <li><i class="fa-li fa fa-university"></i><strong><a href="http://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" data-umami-event="courses" target="_blank">Courses</a></strong><br>
+  <li><i class="fa-li fa fa-university"></i><strong><a href="http://docs.google.com/spreadsheets/d/1GImCrgv1_oDjbwko56bEv5TPY0pukVJu8CSqIV85e-k" data-goatcounter-click="courses" data-umami-event="courses" target="_blank">Courses</a></strong><br>
     <em>Complete list of coursework (awards and certificates to be uploaded)</em></li>
-  <li><i class="fa-li fa fa-github"></i><strong><a href="http://github.com/megdna" data-umami-event="projects" target="_blank">Projects</a></strong><br>
+  <li><i class="fa-li fa fa-github"></i><strong><a href="http://github.com/megdna" data-goatcounter-click="projects" data-umami-event="projects" target="_blank">Projects</a></strong><br>
     <em>Repositories on GitHub (under development, new repos to be added)</em></li>
-  <li><i class="fa-li ai ai-google-scholar"></i><strong><a href="http://scholar.google.com/citations?user=XyQXaocAAAAJ" data-umami-event="publications" target="_blank">Publications</a></strong><br>
-    <em>Journal articles on Google Scholar (<a href="http://books.google.com/books?uid=112842747224626688959" data-umami-event="books" target="_blank">books</a> and posters to be included)</em></li>
+  <li><i class="fa-li ai ai-google-scholar"></i><strong><a href="http://scholar.google.com/citations?user=XyQXaocAAAAJ" data-goatcounter-click="publications" data-umami-event="publications" target="_blank">Publications</a></strong><br>
+    <em>Journal articles on Google Scholar (<a href="http://books.google.com/books?uid=112842747224626688959" data-goatcounter-click="books" data-umami-event="books" target="_blank">books</a> and posters to be included)</em></li>
 </ul>
