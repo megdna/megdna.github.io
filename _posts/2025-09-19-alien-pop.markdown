@@ -2,7 +2,6 @@
 layout: post
 title: Alien Pop: An Otherworldly Soundscape
 permalink: /alien-pop/
-description:
 img: Alien-Pop.png
 credit: https://www.sandralisidesign.com
 tags: [Music]
