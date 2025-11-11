@@ -9,12 +9,12 @@ tags: [Bio]
 
 I stopped using most commercial social media sites. You can view my latest content below.
 
-### Posts on <a href="https://fediscience.org/@meg" data-goatcounter-click="fediscience" data-umami-event="fediscience" target="_blank">Mastodon</a>
+### Posts on <a href="https://fediscience.org/@meg" data-goatcounter-click="fediscience" target="_blank">Mastodon</a>
 
-### Photos on <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" data-goatcounter-click="photos" data-umami-event="photos" target="_blank">Google</a>
+### Photos on <a href="https://photos.app.goo.gl/4L6oXCuyH4AYKMPT6" data-goatcounter-click="photos" target="_blank">Google</a>
 
-<a href="https://photos.google.com/share/AF1QipO9kVj7PmZKUy1OKB09ZOEzsdmH4Y5MV4h-9qyOIKktye57PJZc7iGMkR6V8k3PuA/photo/AF1QipPDvTveV-OectaZMLLm455nJfr3Ne5H2C5g0o9M?key=Q0l3akd6R1dUNkszMmV5T2s4ZVdiRERLNkdoUUx3" data-goatcounter-click="photo" data-umami-event="photo" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLWlFv_pb74-iYB4-WM9oVu_nXW19dthvrDnlQKHMDmEbzGcEdd6EROR4XZK065JlP_iCkJmlYU57Li6e_Z_RvG53ku9RkWzwZXM439BBs8c-gj7n_zB1_tUQGhv5lOncx20Ro26l5mvhAwpXsAJvX1oKw=w1820-h1364-no" width="100%"></a>
+<a href="https://photos.google.com/share/AF1QipO9kVj7PmZKUy1OKB09ZOEzsdmH4Y5MV4h-9qyOIKktye57PJZc7iGMkR6V8k3PuA/photo/AF1QipPDvTveV-OectaZMLLm455nJfr3Ne5H2C5g0o9M?key=Q0l3akd6R1dUNkszMmV5T2s4ZVdiRERLNkdoUUx3" data-goatcounter-click="photo" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLWlFv_pb74-iYB4-WM9oVu_nXW19dthvrDnlQKHMDmEbzGcEdd6EROR4XZK065JlP_iCkJmlYU57Li6e_Z_RvG53ku9RkWzwZXM439BBs8c-gj7n_zB1_tUQGhv5lOncx20Ro26l5mvhAwpXsAJvX1oKw=w1820-h1364-no" width="100%"></a>
 
-### Videos on <a href="https://www.youtube.com/megdna" data-goatcounter-click="videos" data-umami-event="videos" target="_blank">YouTube</a>
+### Videos on <a href="https://www.youtube.com/megdna" data-goatcounter-click="videos" target="_blank">YouTube</a>
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLrtPqIlLHMFYu1GD18dw_qD5VhZS6Bz9A" frameborder="0" allowfullscreen></iframe></div>
