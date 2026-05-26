@@ -5,8 +5,6 @@ This is a modified theme created for **[my personal website](https://megdna.gith
 ## Credits
 
 - [Flexible-Jekyll](https://github.com/artemsheludko/flexible-jekyll)
-- [Fork Awesome](https://github.com/ForkAwesome/Fork-Awesome)
-- [Academicons](https://github.com/jpswalsh/academicons)
 
 ## License
 
